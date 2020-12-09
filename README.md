@@ -47,7 +47,7 @@
 
 <li><strong>Deep Feature Flow for Video Recognition</strong>&nbsp;[cvpr17] [Microsoft Research]&nbsp;<a href="1/Deep%20Feature%20Flow%20For%20Video%20Recognition%20cvpr17.pdf">[pdf]</a>&nbsp;&nbsp;</li>
 <li><strong>Flow-Guided Feature Aggregation for Video Object Detection</strong>&nbsp;[ax1708/iccv17]&nbsp;<a href="1/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf">[pdf]</a>&nbsp;<a href="1/Flow-Guided%20Feature%20Aggregation%20for%20Video%20Object%20Detection%20ax1708%20iccv17.pdf">[notes]</a></li>
-<li><strong>Towards High Performance Video Object Detection</strong>&nbsp;[ax1711] [Microsoft]&nbsp;<a href="1/Towards%20High%20Performance%20Video%20Object%20Detection%20ax171130%20microsoft.pdf">[pdf]</a>&nbsp;<a href="1/Towards%20High%20Performance%20Video%20Object%20Detection%20ax171130%20microsoft.pdf">[notes]</a></li>
+<li><strong>Towards High Performance Video Object Detection</strong>&nbsp;[ax1711] [Microsoft]&nbsp;<a href="1/2.pdf">[pdf]</a></li>
 
 <li><strong>Online Video Object Detection using Association LSTM</strong>&nbsp;[iccv17]&nbsp;<a href="1/Online%20Video%20Object%20Detection%20using%20Association%20LSTM%20iccv17.pdf">[pdf]</a>&nbsp;<a href="1/Online%20Video%20Object%20Detection%20using%20Association%20LSTM%20iccv17.pdf">[notes]</a></li>
 <li><strong>Context Matters Reﬁning Object Detection in Video with Recurrent Neural Networks</strong>&nbsp;[bmvc16]&nbsp;<a href="1/Context%20Matters%20Re%EF%AC%81ning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf">[pdf]</a>&nbsp;<a href="1/Context%20Matters%20Re%EF%AC%81ning%20Object%20Detection%20in%20Video%20with%20Recurrent%20Neural%20Networks%20bmvc16.pdf">[notes]</a></li>
