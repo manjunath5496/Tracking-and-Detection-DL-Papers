@@ -27,19 +27,19 @@
 <li><strong>Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection</strong>&nbsp;[ax1912/cvpr20]&nbsp;<a href="1/Bridging%20the%20Gap%20Between%20Anchor-based%20and%20Anchor-free%20Detection%20via%20Adaptive%20Training%20Sample%20Selection%201912.02424%20cvpr20.pdf">[pdf]</a>&nbsp;<a href="1/Bridging%20the%20Gap%20Between%20Anchor-based%20and%20Anchor-free%20Detection%20via%20Adaptive%20Training%20Sample%20Selection%201912.02424%20cvpr20.pdf">[notes]</a>&nbsp;</li>
 
 <li>
-<p><strong>OverFeat Integrated Recognition, Localization and Detection using Convolutional Networks</strong>&nbsp;[ax1402/iclr14]&nbsp;<a href="1/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf">[pdf]</a>&nbsp;<a href="1/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf">[notes]</a></p>
+<strong>OverFeat Integrated Recognition, Localization and Detection using Convolutional Networks</strong>&nbsp;[ax1402/iclr14]&nbsp;<a href="1/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf">[pdf]</a>&nbsp;<a href="1/OverFeat%20Integrated%20Recognition,%20Localization%20and%20Detection%20using%20Convolutional%20Networks%20ax1402%20iclr14.pdf">[notes]</a>
 </li>
 <li>
-<p><strong>LSDA Large scale detection through adaptation</strong>&nbsp;[ax1411/nips14]&nbsp;<a href="1/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf">[pdf]</a>&nbsp;<a href="1/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf">[notes]</a></p>
+<strong>LSDA Large scale detection through adaptation</strong>&nbsp;[ax1411/nips14]&nbsp;<a href="1/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf">[pdf]</a>&nbsp;<a href="1/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf">[notes]</a>
 </li>
 <li>
-<p><strong>Acquisition of Localization Confidence for Accurate Object Detection</strong>&nbsp;[ax1807/eccv18]&nbsp;<a href="1/1.pdf">[pdf]</a>&nbsp;<a href="1/IOU-Net.pdf">[notes]</a>&nbsp;</p>
+<strong>Acquisition of Localization Confidence for Accurate Object Detection</strong>&nbsp;[ax1807/eccv18]&nbsp;<a href="1/1.pdf">[pdf]</a>&nbsp;<a href="1/IOU-Net.pdf">[notes]</a>&nbsp;
 </li>
 <li>
-<p><strong>EfficientDet: Scalable and Efficient Object Detection</strong>&nbsp;[cvpr20]&nbsp;<a href="1/EfficientDet_Scalable%20and%20efficient%20object%20detection.pdf">[pdf]</a></p>
+<strong>EfficientDet: Scalable and Efficient Object Detection</strong>&nbsp;[cvpr20]&nbsp;<a href="1/EfficientDet_Scalable%20and%20efficient%20object%20detection.pdf">[pdf]</a>
 </li>
 <li>
-<p><strong>Generalized Intersection over Union A Metric and A Loss for Bounding Box Regression</strong>&nbsp;[ax1902/cvpr19]&nbsp;<a href="1/Generalized%20Intersection%20over%20Union%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression%201902.09630%20cvpr19.pdf">[pdf]</a>&nbsp;<a href="1/Generalized%20Intersection%20over%20Union%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression%201902.09630%20cvpr19.pdf">[notes]</a>&nbsp;&nbsp;</p>
+<strong>Generalized Intersection over Union A Metric and A Loss for Bounding Box Regression</strong>&nbsp;[ax1902/cvpr19]&nbsp;<a href="1/Generalized%20Intersection%20over%20Union%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression%201902.09630%20cvpr19.pdf">[pdf]</a>&nbsp;<a href="1/Generalized%20Intersection%20over%20Union%20A%20Metric%20and%20A%20Loss%20for%20Bounding%20Box%20Regression%201902.09630%20cvpr19.pdf">[notes]</a>&nbsp;&nbsp;
 </li>
 
 <li><strong>Object Detection from Video Tubelets with Convolutional Neural Networks</strong>&nbsp;[cvpr16]&nbsp;<a href="1/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf">[pdf]</a>&nbsp;<a href="1/Object_Detection_from_Video_Tubelets_with_Convolutional_Neural_Networks_CVPR16.pdf">[notes]</a></li>
@@ -61,19 +61,19 @@
 <li><strong>Deep Affinity Network for Multiple Object Tracking</strong>&nbsp;[ax1810/tpami19]&nbsp;<a href="1/Deep%20Affinity%20Network%20for%20Multiple%20Object%20Tracking%20ax1810.11780%20tpami19.pdf">[pdf]</a>&nbsp;<a href="1/Deep%20Affinity%20Network%20for%20Multiple%20Object%20Tracking%20ax1810.11780%20tpami19.pdf">[notes]</a>&nbsp;&nbsp;[pytorch]</li>
 
 <li>
-<p><strong>Online Multi-Object Tracking Using CNN-based Single Object Tracker with Spatial-Temporal Attention Mechanism</strong>&nbsp;[ax1708/iccv17]&nbsp;<a href="1/Online%20Multi-Object%20Tracking%20Using%20CNN-based%20Single%20Object%20Tracker%20with%20Spatial-Temporal%20Attention%20Mechanism%201708.02843%20iccv17.pdf">[pdf]</a>&nbsp;&nbsp;<a href="1/Online%20Multi-Object%20Tracking%20Using%20CNN-based%20Single%20Object%20Tracker%20with%20Spatial-Temporal%20Attention%20Mechanism%201708.02843%20iccv17.pdf">[notes]</a></p>
+<strong>Online Multi-Object Tracking Using CNN-based Single Object Tracker with Spatial-Temporal Attention Mechanism</strong>&nbsp;[ax1708/iccv17]&nbsp;<a href="1/Online%20Multi-Object%20Tracking%20Using%20CNN-based%20Single%20Object%20Tracker%20with%20Spatial-Temporal%20Attention%20Mechanism%201708.02843%20iccv17.pdf">[pdf]</a>&nbsp;&nbsp;<a href="1/Online%20Multi-Object%20Tracking%20Using%20CNN-based%20Single%20Object%20Tracker%20with%20Spatial-Temporal%20Attention%20Mechanism%201708.02843%20iccv17.pdf">[notes]</a>
 </li>
 <li>
-<p><strong>Online multi-object tracking with dual matching attention networks</strong>&nbsp;[ax1902/eccv18]&nbsp;<a href="1/Online%20multi-object%20tracking%20with%20dual%20matching%20attention%20networks%201902.00749%20eccv18.pdf">[pdf]</a>&nbsp;&nbsp;<a href="1/Online%20multi-object%20tracking%20with%20dual%20matching%20attention%20networks%201902.00749%20eccv18.pdf">[notes]</a>&nbsp;</p>
+<strong>Online multi-object tracking with dual matching attention networks</strong>&nbsp;[ax1902/eccv18]&nbsp;<a href="1/Online%20multi-object%20tracking%20with%20dual%20matching%20attention%20networks%201902.00749%20eccv18.pdf">[pdf]</a>&nbsp;&nbsp;<a href="1/Online%20multi-object%20tracking%20with%20dual%20matching%20attention%20networks%201902.00749%20eccv18.pdf">[notes]</a>&nbsp;
 </li>
 <li>
-<p><strong>FAMNet Joint Learning of Feature, Affinity and Multi-Dimensional Assignment for Online Multiple Object Tracking</strong>&nbsp;[iccv19]&nbsp;<a href="1/FAMNet%20Joint%20Learning%20of%20Feature,%20Affinity%20and%20Multi-Dimensional%20Assignment%20for%20Online%20Multiple%20Object%20Tracking%20iccv19.pdf">[pdf]</a>&nbsp;<a href="1/FAMNet%20Joint%20Learning%20of%20Feature,%20Affinity%20and%20Multi-Dimensional%20Assignment%20for%20Online%20Multiple%20Object%20Tracking%20iccv19.pdf">[notes]</a></p>
+<strong>FAMNet Joint Learning of Feature, Affinity and Multi-Dimensional Assignment for Online Multiple Object Tracking</strong>&nbsp;[iccv19]&nbsp;<a href="1/FAMNet%20Joint%20Learning%20of%20Feature,%20Affinity%20and%20Multi-Dimensional%20Assignment%20for%20Online%20Multiple%20Object%20Tracking%20iccv19.pdf">[pdf]</a>&nbsp;<a href="1/FAMNet%20Joint%20Learning%20of%20Feature,%20Affinity%20and%20Multi-Dimensional%20Assignment%20for%20Online%20Multiple%20Object%20Tracking%20iccv19.pdf">[notes]</a>
 </li>
 <li>
-<p><strong>Exploit the Connectivity: Multi-Object Tracking with TrackletNet</strong>&nbsp;[ax1811/mm19]&nbsp;<a href="1/Exploit%20the%20Connectivity%20Multi-Object%20Tracking%20with%20TrackletNet%20ax1811.07258%20mm19.pdf">[pdf]</a>&nbsp;<a href="1/Exploit%20the%20Connectivity%20Multi-Object%20Tracking%20with%20TrackletNet%20ax1811.07258%20mm19.pdf">[notes]</a></p>
+<strong>Exploit the Connectivity: Multi-Object Tracking with TrackletNet</strong>&nbsp;[ax1811/mm19]&nbsp;<a href="1/Exploit%20the%20Connectivity%20Multi-Object%20Tracking%20with%20TrackletNet%20ax1811.07258%20mm19.pdf">[pdf]</a>&nbsp;<a href="1/Exploit%20the%20Connectivity%20Multi-Object%20Tracking%20with%20TrackletNet%20ax1811.07258%20mm19.pdf">[notes]</a>
 </li>
 <li>
-<p><strong>Tracking without bells and whistles</strong>&nbsp;[ax1903/iccv19]&nbsp;<a href="1/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf">[pdf]</a>&nbsp;<a href="1/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf">[notes]</a>&nbsp;&nbsp;[pytorch]</p>
+<strong>Tracking without bells and whistles</strong>&nbsp;[ax1903/iccv19]&nbsp;<a href="1/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf">[pdf]</a>&nbsp;<a href="1/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf">[notes]</a>&nbsp;&nbsp;[pytorch]
 </li>
 
 <li><strong>Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies</strong>&nbsp;[ax1704/iccv17] [Stanford]&nbsp;<a href="1/Tracking%20The%20Untrackable%20Learning%20To%20Track%20Multiple%20Cues%20with%20Long-Term%20Dependencies%20ax17_4_iccv17.pdf">[pdf]</a>&nbsp;<a href="1/Tracking_The_Untrackable_Learning_To_Track_Multiple_Cues_with_Long-Term_Dependencies.pdf">[notes]</a>&nbsp;&nbsp;,</li>
