@@ -33,7 +33,7 @@
 <p><strong>LSDA Large scale detection through adaptation</strong>&nbsp;[ax1411/nips14]&nbsp;<a href="1/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf">[pdf]</a>&nbsp;<a href="1/LSDA%20Large%20scale%20detection%20through%20adaptation%20nips14%20ax14_11.pdf">[notes]</a></p>
 </li>
 <li>
-<p><strong>Acquisition of Localization Confidence for Accurate Object Detection</strong>&nbsp;[ax1807/eccv18]&nbsp;<a href="1/Acquisition%20of%20Localization%20Confidence%20for%20Accurate%20Object%20Detection%201807.11590%20eccv18.pdf">[pdf]</a>&nbsp;<a href="1/IOU-Net.pdf">[notes]</a>&nbsp;</p>
+<p><strong>Acquisition of Localization Confidence for Accurate Object Detection</strong>&nbsp;[ax1807/eccv18]&nbsp;<a href="1/1.pdf">[pdf]</a>&nbsp;<a href="1/IOU-Net.pdf">[notes]</a>&nbsp;</p>
 </li>
 <li>
 <p><strong>EfficientDet: Scalable and Efficient Object Detection</strong>&nbsp;[cvpr20]&nbsp;<a href="1/EfficientDet_Scalable%20and%20efficient%20object%20detection.pdf">[pdf]</a></p>
